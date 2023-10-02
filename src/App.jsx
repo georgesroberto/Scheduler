@@ -45,7 +45,7 @@ export default function App() {
   return <>
     <h2>My Todo App</h2>
     <NewTodoForm onSubmit={addTodo}/>
-    <h2 className="header">Todo List</h2>
+    <h2 className="header">Todo List ({todos.length})</h2>
     <TodoList todos={ todos } toggleTodo={toggleTodo} deleteTodo={deleteTodo} />
   </>
 }
