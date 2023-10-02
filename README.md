@@ -31,11 +31,13 @@
 <code>cd Scheduler</code>
 
 ### How To Use Code
-1. <code>npm i <code> -> Installs all dependencies
-2. <code>code .<code> -> Opens VSCode 
-3. <code>npm run dev<code> -> Starts your server
+
+<code>npm i </code> -> Installs all dependencies
+<code>code .</code> -> Opens VSCode 
+<code>npm run dev</code> -> Starts your server
+
 - If not visible in browser, paste the path below in your browser
-<p><code>http://localhost:5173<code> Confirm if ports match</p>
+<p><code>http://localhost:5173</code> Confirm if ports match</p>
 
 ### Credits
 - You Tube Academy 
